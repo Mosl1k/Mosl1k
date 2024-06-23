@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on PAO Rostelecom as system administrator Linux with DevOps and SRE functions
+- 🌱 I’m currently learning Golang, Python & Java
 <!--
 **Mosl1k/Mosl1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
